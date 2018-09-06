@@ -76,13 +76,13 @@ import edu.gatech.oad.antlab.pkg2.*;
           Person5 p5 = new Person5("Songming Liu");
           toPrint += p5.toString("sliu607");
           System.out.println(toPrint);
-
-
     }
 
 
     /**
      * entry point for the program
+     *
+     * @param args an array of command-line arguments for the application
      */
      public static void main(String[] args) {
 
